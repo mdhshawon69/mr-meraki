@@ -2,7 +2,7 @@ import React from "react";
 
 const SubscriptionArea = () => {
   return (
-    <div className='bg-header bg-fill bg-no-repeat bg-center h-[30vh] py-10 space-y-4 text-center font-gortesk '>
+    <div className='bg-header background-image bg-fill bg-no-repeat bg-center h-[30vh] py-10 space-y-4 text-center font-gortesk '>
       <h3 className='text-white text-lg font-semibold capitalize'>
         don’t miss out, join now for early access
       </h3>
