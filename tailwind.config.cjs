@@ -9,7 +9,7 @@ module.exports = {
       },
 
       backgroundImage: {
-        header: "url('./src/assets/headerBg.png')",
+        header: "url('./src/assets/headerBgImage.jpg')",
         attGradient:
           "linear-gradient(253.23deg, #08020A 29.24%, #0C0517 64.82%, #0C0517 84.7%, #0B0413 100%)",
         btnGradient:

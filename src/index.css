@@ -9,7 +9,7 @@
 
 @layer utilities {
     .background-image {
-        background-image: url('./src/assets/headerBg.png')
+        background-image: url('./src/assets/headerBgImage.jpg')
     }
 }
 
