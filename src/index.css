@@ -1,15 +1,12 @@
 @import url('https://fonts.cdnfonts.com/css/syne');
 @import url('https://fonts.cdnfonts.com/css/space-grotesk');
 
+.background-image {
+    background-image: url("../public/headerBgImage.jpg")
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-
-
-@layer utilities {
-    .background-image {
-        background-image: url('./src/assets/headerBgImage.jpg')
-    }
-}
 
