@@ -5,8 +5,9 @@ import { FaDiscord, FaTwitter } from "react-icons/fa";
 
 const Header = () => {
   return (
-    <div className='bg-header background-image bg-auto bg-no-repeat bg-center h-[101vh] w-full overflow-hidden font-syne relative'>
-      <div className=''></div>
+    <div
+      className='bg-header background-image bg-auto bg-no-repeat bg-center h-[101vh] w-full overflow-hidden font-syne relative'
+      style={{ backgroundImage: "url('./src/assets/headerBg.png')" }}>
       <div>
         <img
           src={images.collection}
